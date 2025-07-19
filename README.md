@@ -32,16 +32,28 @@ streamlit run app.py
 
 🧪 Input Parameters
 Parameter	Description
+
 Age	Patient's age
+
 Sex	Male/Female
+
 Chest Pain Type	Type of chest pain
+
 Resting Blood Pressure	Measured in mm Hg
+
 Cholesterol	Serum cholesterol in mg/dl
+
 Fasting Blood Sugar	>120 mg/dl (Yes/No)
+
 Resting ECG	ECG results
+
 Max Heart Rate	Maximum heart rate achieved
+
 Exercise Induced Angina	Yes/No
+
 Oldpeak	ST depression
+
 ST Slope	Slope of peak exercise ST segment
+
 
  
